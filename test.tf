@@ -1,4 +1,3 @@
 output "test"{
-    hello world
-    good morning
+value="hello world"
 }
